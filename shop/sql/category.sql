@@ -1,0 +1,9 @@
+INSERT INTO `category` VALUES (1, '数码');
+INSERT INTO `category` VALUES (2, '服装');
+INSERT INTO `category` VALUES (3, '鞋靴箱包');
+INSERT INTO `category` VALUES (4, '食品零食');
+INSERT INTO `category` VALUES (5, '珠宝配饰');
+INSERT INTO `category` VALUES (6, '护肤彩妆');
+INSERT INTO `category` VALUES (7, '图书书籍');
+INSERT INTO `category` VALUES (8, '家居饰品');
+INSERT INTO `category` VALUES (9, '源码码头');
